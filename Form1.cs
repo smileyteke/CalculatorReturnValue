@@ -52,7 +52,7 @@ namespace Activities
             {
                 case "Add":
                     {
-                        sum = number1 - number2;
+                        sum = number1 + number2;
                         break;
                     }
                 case "Subtract":
