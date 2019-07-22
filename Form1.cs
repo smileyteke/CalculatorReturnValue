@@ -16,7 +16,7 @@ namespace Activities
         {
             InitializeComponent();
         }
-
+//the button add coding is wrong it is subtracting instead of adding
         private void btnAdd_Click(object sender, EventArgs e)
         {
             txtAnswer.Text =  calculateAnswer("Add");
